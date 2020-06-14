@@ -14,7 +14,7 @@
 
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/pro.jpeg)
 
-## - Here are some snippet from my project.
+## Here are some snippet from my project.
 
 ### Home Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/one.png)
