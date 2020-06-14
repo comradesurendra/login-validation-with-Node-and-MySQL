@@ -1,4 +1,4 @@
-# login-validation-with-Node-and-MySQL
+# A basic Registration and Login Validation Form using Node and MySQL.
 ## Steps to run the Project
 
 ## To install all the dependencies run command
