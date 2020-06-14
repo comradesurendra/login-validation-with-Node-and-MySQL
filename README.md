@@ -1,13 +1,13 @@
 # A basic Registration and Login Validation Form using Node and MySQL.
 ## Steps to run the Project
 
-## To install all the dependencies run command
+#### To install all the dependencies run command
 #####  - npm i
-## Make sure you have installed mysql, to check run cmd in terminal
+#### Make sure you have installed mysql, to check run cmd in terminal
 #####  - mysql -u root -p 
-## To run the server run command
+#### To run the server run command
 ##### - nodemon app.js
-## Headon to the chome and type link in url section 
+#### Headon to the chome and type link in url section 
 ##### - localhost:3535
 ---------------------------------------------------------------------------------
 ### Design Workflow 
