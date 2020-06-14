@@ -14,18 +14,18 @@
 
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/pro.jpeg)
 
-##### - Here are some snippet from my project.
+## - Here are some snippet from my project.
 
-## Home Page
+### Home Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/one.png)
-## Registration Page
+### Registration Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/two.png)
-## Successfully Registered 
+### Successfully Registered 
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/three.png)
-## User Details Get Updated in the MySQL database
+### User Details Get Updated in the MySQL database
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/four.png)
-## Login Page
+### Login Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/five.png)
-## Successfully Logedin
+### Successfully Logedin
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/six.png)
 
