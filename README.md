@@ -1,6 +1,9 @@
 # A basic Registration and Login Validation Form using Node and MySQL.
-## Steps to run the Project
+#### Login Validation form implementation.
+#### Features: The registration details get stored into the database, the password gets encrypted before it gets into DB, secure login validation from the registered user on correct login credentials.
+#### Role: Full-Stack Developer | Tech Stack: Handlebars, CSS, JavaScript, Node, MySQL.
 
+## Steps to run the Project
 #### To install all the dependencies run command
 #####  - npm i
 #### Make sure you have installed mysql, to check run cmd in terminal
