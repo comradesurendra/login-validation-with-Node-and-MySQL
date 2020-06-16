@@ -5,10 +5,10 @@ const bcrypt=require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 const db = mysql.createConnection({
-    host: process.env.DATABASE_HOST,
-    user: process.env.DATABASE_USER,
-    password: process.env.DATABASE_PASS,
-    database: process.env.DATABASE
+    host: process.env.DATABASE_HOST, //Enter host here
+    user: process.env.DATABASE_USER, //Enter the user here
+    password: process.env.DATABASE_PASS, //Enter the password here
+    database: process.env.DATABASE    //Enter the database name here
 });
 
 exports.login= async (req,res)=>{
