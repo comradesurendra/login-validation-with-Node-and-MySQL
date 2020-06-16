@@ -1,28 +1,34 @@
 # A basic Registration and Login Validation Form using Node and MySQL.
-## Steps to run the Project
+#### Login Validation form implementation.
+#### Features: The registration details get stored into the database, the password gets encrypted before it gets into DB, secure login validation from the registered user on correct login credentials.
+#### Role: Full-Stack Developer | Tech Stack: Handlebars, CSS, JavaScript, Node, MySQL.
 
-## To install all the dependencies run command
+## Steps to run the Project
+#### To install all the dependencies run command
 #####  - npm i
-## Make sure you have installed mysql, to check run cmd in terminal
+#### Make sure you have installed mysql, to check run cmd in terminal
 #####  - mysql -u root -p 
-## To run the server run command
+#### To run the server run command
 ##### - nodemon app.js
-## Headon to the chome and type link in url section 
+#### Headon to the chome and type link in url section 
 ##### - localhost:3535
 ---------------------------------------------------------------------------------
+### Design Workflow 
 
-##### - Here are some snippet from my project.
+![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/pro.jpeg)
 
-## Home Page
+## Here are some snippet from my project.
+
+### Home Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/one.png)
-## Registration Page
+### Registration Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/two.png)
-## Successfully Registered 
+### Successfully Registered 
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/three.png)
-## User Details Get Updated in the MySQL database
+### User Details Get Updated in the MySQL database
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/four.png)
-## Login Page
+### Login Page
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/five.png)
-## Successfully Logedin
+### Successfully Logedin
 ![alt text](https://github.com/comradesurendra/login-validation-with-Node-and-MySQL/blob/master/projectimg/six.png)
 
